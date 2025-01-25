@@ -7,4 +7,4 @@ This is a functional web color picker project built with React.
 React, JavaScript, CSS, GitHub.
 
 ## Technologies Instalation:
-- **Gh-pages**: for gihub pages.
+- **Gh-pages**: for github pages.
